@@ -1,0 +1,23 @@
+# Archivo de personajes - Siegius
+# Formato: nombre,vida,ataque,defensa,carpeta,ataque_frames,morir_frames,caminar_frames
+Gigante,250,19,5,Gigante,1-5,6-10,11-18
+Arquero_de_fuego,50,26,5,Arquero de fuego,1-5,6-10,11-18
+Arquero_vikingo,55,22,7,Arquero vikingo,1-5,6-10,11-18
+Asaltante,65,17,11,Asaltante,1-5,6-10,11-18
+Centuriano,75,18,12,Centuriano,1-5,6-10,11-18
+Defensor,110,12,22,Defensor,1-5,6-10,11-18
+Legionario,70,15,16,Legionario,1-5,6-10,11-18
+Mago_guerrero,70,25,6,Mago guerrero,1-5,6-10,11-18
+Jabali,60,15,8,Jabali,1-5,6-10,11-17
+Jabali_adulto,95,17,10,Jabali adulto,1-5,6-10,11-17
+Jabali_guerrero,160,18,10,Jabali guerrero,1-5,6-10,11-17
+Caballeria,80,19,9,Caballeria,1-5,6-14,15-21
+Jinete_de_jabali,85,20,8,Jinete de jabali,1-5,6-14,15-21
+Jinete_de_maza,75,21,8,Jinete de maza,1-5,6-14,15-21
+Berserker,130,24,4,Berserker,1-9,10-14,15-22
+
+
+
+
+
+

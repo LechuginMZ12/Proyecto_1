@@ -1,0 +1,5 @@
+# Archivo de avatares - Siegius 
+# Formato: nombre,carpeta,archivo
+Caesar,Avatares,avatar1.png
+Vercingetorix,Avatares,avatar2.png
+Boaretheus,Avatares,avatar3.png
